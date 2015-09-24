@@ -1,3 +1,4 @@
+
 #<p><span style="font-size: 36pt;">InstaBreak</span></p>
 <p>&nbsp;</p>
 <p>This mod adds in 4 new blocks and 1 new item(crafting component) into the game.</p>
@@ -23,6 +24,11 @@
 <p>They are crafted with 3 InstaBreaks or Falling <span style="font-size: 10pt;">InstaBreaks</span> and a single glowstone dust. (Note: recipe is shaped)</p>
 <p><img src="http://s22.postimg.org/q5g4717ld/screenshot_25.png" alt="" width="350" height="100" /></p>
 <p><span style="font-size: 18pt;"><strong>&nbsp;</strong></span></p>
+<p><span style="font-size: 18pt;"><strong>Links</strong></span></p>
+<p><span style="font-size: 10pt;"><a href="http://minecraft.curseforge.com/mc-mods/236322-instabreak">Minecraft CurseForge</a></span></p>
+<p><span style="font-size: 10pt;"><a href="http://www.curse.com/mc-mods/Minecraft/236322-instabreak">Curse</a></span></p>
+<p><span style="font-size: 10pt;"><a href="https://github.com/adencraft-minecraft/InstaBreak">Source Code</a></span></p>
+<p>&nbsp;</p>
 <p><span style="font-size: 18pt;"><strong>License (Modpack info in here)<br /></strong></span></p>
 <p><span style="font-size: 10pt;">This mod is licensed under the GPLv3 license visable <a title="https://github.com/adencraft-minecraft/InstaBreak/blob/master/LICENSE" href="https://github.com/adencraft-minecraft/InstaBreak/blob/master/LICENSE">HERE</a> or <a href="http://www.gnu.org/licenses/lgpl-3.0.txt">HERE</a>.</span></p>
 <p><span style="font-size: 10pt;">It basically means you may not reproduce, redistribute or modify it unless noted otherwise.</span></p>

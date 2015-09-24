@@ -1,0 +1,9 @@
+tile.InstaBreak.name=InstaBreak
+tile.InstaBreakFall.name=Falling InstaBreak
+
+tile.InstaBreakGlow.name=Glowing InstaBreak
+tile.InstaBreakGlowFall.name=Glowing and Falling InstaBreak
+
+item.WoodenBrace.name=Wooden Brace
+
+itemGroup.tabInstaBreak=InstaBreak
