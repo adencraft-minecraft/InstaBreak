@@ -1,7 +1,7 @@
-
-#<p><span style="font-size: 36pt;">InstaBreak</span></p>
+<p><span style="font-size: 36pt;">InstaBreak</span></p>
+<p><span style="font-size: 36pt;"><img src="http://s28.postimg.org/75osqs9fx/screenshot_32.png" alt="" width="588" height="361" /></span></p>
 <p>&nbsp;</p>
-<p>This mod adds in 4 new blocks and 1 new item(crafting component) into the game.</p>
+<p>This mod adds in 4 new blocks and 1 new item(crafting component) into the game which can be broken in one single hit.</p>
 <p>&nbsp;</p>
 <p><span style="font-size: 18pt;"><strong>Crafting Component:</strong></span></p>
 <p>Wooden brace.&nbsp; Used to create the Instabreak and the Falling InstaBreak.</p>
@@ -25,6 +25,7 @@
 <p><img src="http://s22.postimg.org/q5g4717ld/screenshot_25.png" alt="" width="350" height="100" /></p>
 <p><span style="font-size: 18pt;"><strong>&nbsp;</strong></span></p>
 <p><span style="font-size: 18pt;"><strong>Links</strong></span></p>
+#<p><a href="http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2531076-instabreak-4-new-blocks-that-you-can-break">Minecraft Forums</a></p>
 <p><span style="font-size: 10pt;"><a href="http://minecraft.curseforge.com/mc-mods/236322-instabreak">Minecraft CurseForge</a></span></p>
 <p><span style="font-size: 10pt;"><a href="http://www.curse.com/mc-mods/Minecraft/236322-instabreak">Curse</a></span></p>
 <p><span style="font-size: 10pt;"><a href="https://github.com/adencraft-minecraft/InstaBreak">Source Code</a></span></p>
