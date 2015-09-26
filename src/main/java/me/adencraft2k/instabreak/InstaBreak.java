@@ -46,11 +46,13 @@ public class InstaBreak {
 	@EventHandler
 	public void init(FMLInitializationEvent event) {
 		GameRegistry.addRecipe(new ItemStack(itemWoodBrace, 2), new Object[]{"S ", " S", 'S', Items.stick});
+		GameRegistry.addRecipe(new ItemStack(itemWoodBrace, 2), new Object[]{" S", "S ", 'S', Items.stick});
 		GameRegistry.addRecipe(new ItemStack(blockInstaBreak, 4), new Object[]{" W ", "WBW", " W ", 'W', Blocks.planks, 'B', itemWoodBrace});
 		GameRegistry.addRecipe(new ItemStack(blockInstaBreakFall, 4), new Object[]{" S ", "SBS", " S ", 'S', Blocks.sand, 'B', itemWoodBrace});
 		
-		GameRegistry.addRecipe(new ItemStack(blockInstaBreakGlow, 3), new Object[]{"GB", "BB", 'G', Items.glowstone_dust, 'B', blockInstaBreak});
-		GameRegistry.addRecipe(new ItemStack(blockInstaBreakGlowFall, 3), new Object[]{"GB", "BB", 'G', Items.glowstone_dust, 'B', blockInstaBreakFall});
+		
+		GameRegistry.addShapelessRecipe(new ItemStack(blockInstaBreakGlow, 3), new Object[]{Items.glowstone_dust, blockInstaBreak, blockInstaBreak, blockInstaBreak});
+		GameRegistry.addShapelessRecipe(new ItemStack(blockInstaBreakGlowFall, 3), new Object[]{Items.glowstone_dust, blockInstaBreakFall, blockInstaBreakFall, blockInstaBreakFall});
 	}
 	
 	@EventHandler
